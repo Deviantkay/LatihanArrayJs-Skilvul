@@ -15,7 +15,7 @@ Dalam mengidentifikasi elemen didalam suatu array, diperlukannya untuk mengetahu
 
 ## Project Tree
 ```
-- 📂 __Latihan Array JS__
+- 📂 __LatihanArrayJS__
    - 📂 __4 April__
      - 📄 [nilai.js](4 April/nilai.js)
      - 📄 [tambahsoal.js](4 April/tambahsoal.js)
