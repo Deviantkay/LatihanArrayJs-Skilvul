@@ -14,35 +14,34 @@ Dalam mengidentifikasi elemen didalam suatu array, diperlukannya untuk mengetahu
 ---
 
 ## Project Tree
-- 📂 LatihanArrayJS
-   - 📂 __4 April__
-     - 📄 [nilai.js](4 April/nilai.js)
-     - 📄 [tambahsoal.js](4 April/tambahsoal.js)
-   - 📂 __6 April__
-     - 📂 __classic way__
-       - 📄 [get2d.js](6 April/classic way/get2d.js)
-       - 📄 [kelipatan.js](6 April/classic way/kelipatan.js)
-       - 📄 [linear.js](6 April/classic way/linear.js)
-       - 📄 [maxmin.js](6 April/classic way/maxmin.js)
-       - 📄 [mmarray.js](6 April/classic way/mmarray.js)
-       - 📄 [palindrome.js](6 April/classic way/palindrome.js)
-       - 📄 [reversearray.js](6 April/classic way/reversearray.js)
-       - 📄 [sum2d.js](6 April/classic way/sum2d.js)
-       - 📄 [sumarray.js](6 April/classic way/sumarray.js)
-     - 📂 __nonclassic way__
-       - 📄 [get2d.js](6 April/nonclassic way/get2d.js)
-       - 📄 [kelipatan.js](6 April/nonclassic way/kelipatan.js)
-       - 📄 [linear.js](6 April/nonclassic way/linear.js)
-       - 📄 [maxmin.js](6 April/nonclassic way/maxmin.js)
-       - 📄 [mmarray.js](6 April/nonclassic way/mmarray.js)
-       - 📄 [palindrome.js](6 April/nonclassic way/palindrome.js)
-       - 📄 [reversearray.js](6 April/nonclassic way/reversearray.js)
-       - 📄 [sum2d.js](6 April/nonclassic way/sum2d.js)
-       - 📄 [sumarray.js](6 April/nonclassic way/sumarray.js)
-   - 📂 __img__
+- 📂 [__LatihanArrayJS__](LatihanArrayJS)
+   - 📂 [__4 April__](4_April)
+     - 📄 [nilai.js](4_April/nilai.js)
+     - 📄 [tambahsoal.js](4_April/tambahsoal.js)
+   - 📂 [__6_April__](6_April)
+     - 📂 [__classicway__](6_April/classicway)
+       - 📄 [get2d.js](6_April/classic_way/get2d.js)
+       - 📄 [kelipatan.js](6_April/classic_way/kelipatan.js)
+       - 📄 [linear.js](6_April/classic_way/linear.js)
+       - 📄 [maxmin.js](6_April/classic_way/maxmin.js)
+       - 📄 [mmarray.js](6_April/classic_way/mmarray.js)
+       - 📄 [palindrome.js](6_April/classic_way/palindrome.js)
+       - 📄 [reversearray.js](6_April/classic_way/reversearray.js)
+       - 📄 [sum2d.js](6_April/classic_way/sum2d.js)
+       - 📄 [sumarray.js](6_April/classic_way/sumarray.js)
+     - 📂 [__nonclassic way__](6_April/nonclassicway)
+       - 📄 [get2d.js](6_April/nonclassic_way/get2d.js)
+       - 📄 [kelipatan.js](6_April/nonclassic_way/kelipatan.js)
+       - 📄 [linear.js](6_April/nonclassic_way/linear.js)
+       - 📄 [maxmin.js](6_April/nonclassic_way/maxmin.js)
+       - 📄 [mmarray.js](6_April/nonclassic_way/mmarray.js)
+       - 📄 [palindrome.js](6_April/nonclassic_way/palindrome.js)
+       - 📄 [reversearray.js](6_April/nonclassic_way/reversearray.js)
+       - 📄 [sum2d.js](6_April/nonclassic_way/sum2d.js)
+       - 📄 [sumarray.js](6_April/nonclassic_way/sumarray.js)
+   - 📂 [__img__](img)
      - 📄 [tugas.jpg](img/tugas.jpg)
    - 📄 [readme.md](readme.md)
-
 ---
 
 ## Table Of Content
