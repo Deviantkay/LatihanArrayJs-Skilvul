@@ -14,8 +14,7 @@ Dalam mengidentifikasi elemen didalam suatu array, diperlukannya untuk mengetahu
 ---
 
 ## Project Tree
-```
-- 📂 __LatihanArrayJS__
+- 📂 LatihanArrayJS
    - 📂 __4 April__
      - 📄 [nilai.js](4 April/nilai.js)
      - 📄 [tambahsoal.js](4 April/tambahsoal.js)
@@ -43,7 +42,6 @@ Dalam mengidentifikasi elemen didalam suatu array, diperlukannya untuk mengetahu
    - 📂 __img__
      - 📄 [tugas.jpg](img/tugas.jpg)
    - 📄 [readme.md](readme.md)
-```
 
 ---
 
