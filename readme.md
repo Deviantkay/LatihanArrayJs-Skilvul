@@ -1,5 +1,4 @@
-# Latihan Array Javacript
-![latar](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1.jpg)
+# Latihan Array Javacript![latar](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1.jpg)
 ---
 
 `Array` adalah suatu jenis variabel yang digunakan untuk menyimpan kumpulan data dalam 1 tempat dengan terorganisir dan terstruktur serta dapat berisi banyak tipe data seperti `number`, `string`, `boolean`, `object`, bahkan `array` lain meskipun cukup jarang. 
@@ -46,7 +45,6 @@ Dalam mengidentifikasi elemen didalam suatu array, diperlukannya untuk mengetahu
 
 ## Table Of Content
 - [Latihan Array Javacript](#latihan-array-javacript)
-  - [](#)
   - [Link Soal](#link-soal)
   - [Project Tree](#project-tree)
   - [Table Of Content](#table-of-content)
